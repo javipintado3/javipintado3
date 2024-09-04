@@ -5,8 +5,8 @@
 💻 &nbsp;Soy un Desarrollador Web Junior apasionado por la programación y el aprendizaje continuo.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y encontrar soluciones innovadoras a problemas complejos.\
 🎓 &nbsp;He completado un Grado Superior en Desarrollo de Aplicaciones Web en el IES Alixar.\
-🌱 &nbsp;Actualmente estoy perfeccionando mis habilidades en Angular, Spring Boot, Python, Django, y bases de datos como SQLite.\
-⚙️ &nbsp;Mi experiencia incluye prácticas en Eviden, donde participé en la creación de una aplicación de reserva de sitios en la oficina, utilizando tecnologías como Angular y Spring Boot.\
+🌱 &nbsp;Actualmente estoy perfeccionando mis habilidades en Angular, Spring Boot, Python, Django, y bases de datos como MYSQL.\
+⚙️ &nbsp;Mi experiencia incluye prácticas en Eviden, donde participé en la creación de una aplicación utilizando tecnologías como Angular y Spring Boot.\
 ✍️ &nbsp;En mi tiempo libre, disfruto del deporte, especialmente en el gimnasio y corriendo, aprovechando la disciplina adquirida durante mis años en el remo.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
