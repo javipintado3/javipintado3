@@ -30,7 +30,8 @@
 
 ### 🗃 &nbsp;Bases de Datos
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=cratedb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Herramientas de Desarrollo
