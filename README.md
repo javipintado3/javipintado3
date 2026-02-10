@@ -2,11 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-💻 &nbsp;Soy un Desarrollador Web Junior apasionado por la programación y el aprendizaje continuo.\
+💻 &nbsp;Soy un Desarrollador Full Stack Junior apasionado por la programación y el aprendizaje continuo.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y encontrar soluciones innovadoras a problemas complejos.\
 🎓 &nbsp;He completado un Grado Superior en Desarrollo de Aplicaciones Web en el IES Alixar.\
-🌱 &nbsp;Actualmente estoy perfeccionando mis habilidades en Angular, Spring Boot, Python, Django, y bases de datos como MYSQL.\
-✍️ &nbsp;En mi tiempo libre, disfruto del deporte, especialmente en el gimnasio y corriendo, aprovechando la disciplina adquirida durante mis años en el remo.
+🔌 &nbsp;He trabajado como **Técnico IoT en Cibernos**, donde he mejorado mis conocimientos en **redes, hardware, comunicaciones y sistemas IoT**.\
+🚀 &nbsp;Actualmente trabajo como **Desarrollador Full Stack en Viafirma**, participando en el desarrollo de aplicaciones web.\
+🌱 &nbsp;Sigo perfeccionando mis habilidades en **Angular, React Native, Spring Boot, Python, Django** y bases de datos como **MySQL**.\
+✍️ &nbsp;En mi tiempo libre disfruto del deporte, especialmente el gimnasio y correr, aplicando la disciplina adquirida durante mis años en el remo.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -18,6 +20,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
