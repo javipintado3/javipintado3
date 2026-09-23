@@ -28,9 +28,6 @@ Antes fui **Técnico IoT en Cibernos**, trabajando con redes, hardware, comunica
 sistemas IoT — una base poco habitual que me ayuda a entender el sistema completo, no solo
 la capa de aplicación.
 
-Me interesa especialmente el diseño de arquitecturas limpias y mantenibles: mi proyecto
-personal **HybridFit** está construido con **arquitectura hexagonal** sobre Spring Boot.
-
 Formación: **Grado Superior en Desarrollo de Aplicaciones Web** (IES Alixar).
 
 Fuera del código: gimnasio y running. Vengo del remo de competición, y de ahí me traje la
@@ -65,15 +62,11 @@ disciplina de entrenar todos los días aunque no apetezca.
 
 ## Proyectos destacados
 
-### [HybridFit](https://github.com/javipintado3/HybridFit)
+### [EduVibe — Plataforma Educativa Interactiva](https://github.com/javipintado3/Plataforma-Educativa-Interactiva---EduVibe)
 
-Aplicación para atletas que combinan fuerza y cardio: registro de entrenamientos, perfiles,
-insignias por constancia y funcionalidad social.
+Plataforma educativa interactiva con backend en **Spring Boot** y frontend en **Angular**.
 
-Backend en **Spring Boot con arquitectura hexagonal** (dominio / aplicación / infraestructura),
-autenticación con **JWT** y control de acceso por roles. Frontend en **Angular** y datos en **MySQL**.
-
-`Spring Boot` · `Angular` · `MySQL` · `JWT` · `Arquitectura hexagonal`
+`Spring Boot` · `Angular` · `Java`
 
 ### [Portfolio personal](https://github.com/javipintado3/personal-portfolio)
 
@@ -82,12 +75,6 @@ Mi portafolio web, construido con **TypeScript** y desplegado en **Vercel**.
 **→ [javier-pintado-portfolio.vercel.app](https://javier-pintado-portfolio.vercel.app/)**
 
 `TypeScript` · `Vercel`
-
-### [EduVibe — Plataforma Educativa Interactiva](https://github.com/javipintado3/Plataforma-Educativa-Interactiva---EduVibe)
-
-Plataforma educativa interactiva desarrollada en **Java**.
-
-`Java`
 
 ## Estadísticas
 
